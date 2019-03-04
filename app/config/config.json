@@ -1,0 +1,49 @@
+{
+    "apiUrl": "https://api.qa.talentscreen.io",
+    "talentScreenUrl": "https://app.qa.talentscreen.io",
+    "githubUrl": "https://api.github.com/user",
+    "resumeParserApi": "https://qa.utils.talentscreen.io",
+    "forgotPasswordUrl": "https://app.qa.talentscreen.io/#/forgot-password",
+    "takeInterview": "https://app.qa.talentscreen.io/#/candidate/take-interview/",
+    "youtubeApiKey": "AIzaSyAuAP9EffdsHLapjeTURqGKviqc30y0lpU",
+    "googleLocationAutocompleteKey": "AIzaSyCgZ4MSAN1Qa88ma5OWu4urlk0x4N7k-wE",
+    "facebook": {
+        "client_id": "1315779701845284",
+        "client_secret": "6b10a54b984d0585af14b2e615fa034a"
+    },
+    "github_android": {
+        "client_id": "93bd153ac1634ff704a7",
+        "client_secret": "94a82ca94e3efd99b7d55417e94d06f3b3b22587"
+    },
+    "github_ios": {
+        "client_id": "f5e7604d2379eba25900",
+        "client_secret": "8fa3047ce042362644c56c2e9c360d9b05ade8ff"
+    },
+    "google": {
+        "googleUrl": "https://www.googleapis.com/auth/drive.readonly",
+        "clientId": "445302927150-aq53v3ju64ruirvlrrim0jmmia7bo005.apps.googleusercontent.com",
+        "iosClientId": "445302927150-9lb4g6qncai7g4rnoe026kosanrp4nmu.apps.googleusercontent.com"
+    },
+    "linkedIn": {
+        "cliendId": "8105il3vbx3mda",
+        "client_secret": "UV61HEHzDash9HkI",
+        "redirect_url": "http://localhost"
+    },
+    "ga": {
+        "client_id": "357540165806-2e7qn3fstb3f86l85qhs68fd2gcok0u3.apps.googleusercontent.com",
+        "client_secret": "D1ll4wi6DWhG-LS-Z6K8Ysdy",
+        "grant_type": "refresh_token",
+        "dev": {
+            "refresh_token": "1/Qu7ixDVIChd_k2hhAhjUT9nFbrsEuEzbk3i0FpUY2f5OwBAsE0MTfRD9xzTpgOWI"
+        },
+        "qa": {
+            "refresh_token": "1/RmvG8e0Jk9I1gzl_KgEFD63HJI2A_qqhn7guqHDoYkA"
+        },
+        "stag": {
+            "refresh_token": "1/pgFJKToFdhavKxiW5ZKfUNp4ITznSPtFHD_kZn23_gg"
+        },
+        "prod": {
+            "refresh_token": "1/HVgD9B3NGJJ1yugSxvrZKO1ap8YF4XLvzJ2AR9xYyFFmy88fMYT4mqHALaIJcESW"
+        }
+    }
+}
